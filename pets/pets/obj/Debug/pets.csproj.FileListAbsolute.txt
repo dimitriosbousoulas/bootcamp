@@ -1,0 +1,7 @@
+C:\Users\dimit\source\repos\pets\pets\bin\Debug\pets.exe.config
+C:\Users\dimit\source\repos\pets\pets\bin\Debug\pets.exe
+C:\Users\dimit\source\repos\pets\pets\bin\Debug\pets.pdb
+C:\Users\dimit\source\repos\pets\pets\obj\Debug\pets.csprojAssemblyReference.cache
+C:\Users\dimit\source\repos\pets\pets\obj\Debug\pets.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\pets\pets\obj\Debug\pets.exe
+C:\Users\dimit\source\repos\pets\pets\obj\Debug\pets.pdb
